@@ -18,11 +18,11 @@ Simply responsive landing page website made with:
         
  <br>
  <br>
- Warning: -------------<br>
- Every time you want to run this code locally, make sure to delete the dist & .cache folder and type in the VS Code'terminal: parcel index.html.
- 
- Author: 
- 
- Instagram: @devvyou
+ 🔴 <h2>Warning: -------------</h2>
+ Every time you want to run this code locally, make sure to delete the dist & .cache folder and type in the VS Code'terminal: parcel index.html.<br>
+ <br>
+ Author:
+ <br>
+ Instagram: @devvyou<br>
  Fiverr: fiverr.com/users/antoniosalzano
 
