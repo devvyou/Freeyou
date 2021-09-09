@@ -13,5 +13,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "Simply responsive landing page website made with:",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devvyou/Freeyou.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devvyou/Freeyou/issues"
+  },
+  "homepage": "https://github.com/devvyou/Freeyou#readme"
 }
